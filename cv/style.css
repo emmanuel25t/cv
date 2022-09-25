@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+
+body{background-color: rgb(88, 115, 141);}
+
+table.cv{
+    background-color: rgb(46, 89, 129);
+    border-collapse: collapse;
+    border-color: rgb(0, 0, 0);
+    
+}
+
+img.img{
+    width: 250px;
+    height: 350px;
+}
+
+
+  
+.imgRedsocial {
+    width: 5%;
+  }
+  
